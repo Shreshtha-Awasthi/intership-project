@@ -1,0 +1,3 @@
+# intership-project
+Prediction model to find out the potential customers of the bank who are interested in taking loans and making decision trees
+This case is about a bank which has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers.
